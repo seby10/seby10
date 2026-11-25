@@ -17,7 +17,7 @@ Final-year Software Engineering student at Universidad Técnica de Ambato, Ecuad
 
 | Project | What it does | Built with |
 |---|---|---|
-| [Kaphiy](https://github.com/Arkasys-GDP/Khapiy) | QR ordering for a coffee shop, with a real-time kitchen dashboard and an AI assistant | NestJS, Next.js, PostgreSQL, Socket.IO |
+| [Kaphiy](https://github.com/Arkasys-GDP/Kaphiy) | QR ordering for a coffee shop, with a real-time kitchen dashboard and an AI assistant | NestJS, Next.js, PostgreSQL, Socket.IO |
 | [Financial simulator](https://github.com/seby10/simulador-financiero) | Loan and investment simulation for a credit union, with online applications | NestJS, Next.js, Prisma, PostgreSQL |
 | [Gas-System](https://github.com/Application-Distributed-Gasoline-System/Frontend) | Fleet management on microservices; I built the frontend | Next.js, NestJS, gRPC, NATS, Docker |
 | [gym-agent](https://github.com/seby10/gym-agent) | Workout plans from association rules, fuzzy logic and a genetic algorithm | Python, Streamlit |

@@ -17,7 +17,7 @@ Estudio el último año de Ingeniería en Software en la Universidad Técnica de
 
 | Proyecto | Qué resuelve | Con qué |
 |---|---|---|
-| [Kaphiy](https://github.com/Arkasys-GDP/Khapiy) | Pedidos por QR para una cafetería, con panel de cocina en tiempo real y asistente con IA | NestJS, Next.js, PostgreSQL, Socket.IO |
+| [Kaphiy](https://github.com/Arkasys-GDP/Kaphiy) | Pedidos por QR para una cafetería, con panel de cocina en tiempo real y asistente con IA | NestJS, Next.js, PostgreSQL, Socket.IO |
 | [Simulador financiero](https://github.com/seby10/simulador-financiero) | Simulación de créditos e inversiones para una cooperativa, con solicitud en línea | NestJS, Next.js, Prisma, PostgreSQL |
 | [Gas-System](https://github.com/Application-Distributed-Gasoline-System/Frontend) | Gestión de una flota sobre microservicios; hice el frontend | Next.js, NestJS, gRPC, NATS, Docker |
 | [gym-agent](https://github.com/seby10/gym-agent) | Rutinas de entrenamiento con reglas de asociación, lógica difusa y un algoritmo genético | Python, Streamlit |
