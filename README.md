@@ -9,8 +9,8 @@ Final-year Software Engineering student at Universidad Técnica de Ambato, Ecuad
 [Portfolio](https://seby10.github.io) · sebastianconstante04@hotmail.com
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,nestjs,react,angular,postgres,spring,java,python,docker,git&amp;theme=dark">
-  <img alt="TypeScript, Next.js, NestJS, React, Angular, PostgreSQL, Spring, Java, Python, Docker and Git" src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,react,angular,postgres,spring,java,python,docker,git&amp;theme=light" height="44">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Cnestjs%2Creact%2Cangular%2Cpostgres%2Cspring%2Cjava%2Cpython%2Cdocker%2Cgit&amp;theme=dark">
+  <img alt="TypeScript, Next.js, NestJS, React, Angular, PostgreSQL, Spring, Java, Python, Docker and Git" src="https://skillicons.dev/icons?i=ts%2Cnextjs%2Cnestjs%2Creact%2Cangular%2Cpostgres%2Cspring%2Cjava%2Cpython%2Cdocker%2Cgit&amp;theme=light" height="44">
 </picture>
 
 ## Projects
@@ -42,8 +42,8 @@ Full case studies, including my part in each project, are on my [portfolio](http
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=seby10&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=stars&amp;card_width=380&amp;custom_title=GitHub%20activity&amp;bg_color=f3efe6&amp;title_color=b8300e&amp;text_color=1a1814&amp;icon_color=b8300e" height="165">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=seby10&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;hide=html,css&amp;card_width=380&amp;custom_title=Most%20used%20languages&amp;bg_color=0d1117&amp;title_color=ff6a3d&amp;text_color=ece7dc">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seby10&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;hide=html,css&amp;card_width=380&amp;custom_title=Most%20used%20languages&amp;bg_color=f3efe6&amp;title_color=b8300e&amp;text_color=1a1814" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=seby10&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;hide=html%2Ccss&amp;card_width=380&amp;custom_title=Most%20used%20languages&amp;bg_color=0d1117&amp;title_color=ff6a3d&amp;text_color=ece7dc">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seby10&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;hide=html%2Ccss&amp;card_width=380&amp;custom_title=Most%20used%20languages&amp;bg_color=f3efe6&amp;title_color=b8300e&amp;text_color=1a1814" height="165">
 </picture>
 
 <picture>
