@@ -1,21 +1,52 @@
-<h1 align="center">Hola 👋, soy Sebastián Constante</h1>
-<h3 align="center">Tengo 20 años, soy desarrollador y estudiante de software en proceso 🎯</h3>
+# Sebastián Constante
 
-- 💫 Me gusta entrenar, leer y aprender nuevos idiomas
+**English** · [Español](https://github.com/seby10/seby10/blob/main/README.es.md)
 
-- 🔭 Actualmente estoy trabajando en [MCSProject](https://github.com/seby10/MCSProject)
+Final-year Software Engineering student at Universidad Técnica de Ambato, Ecuador. I build web applications and apply AI to them.
 
-- 🌱 Actualmente estoy aprendiendo más sobre **SQL, Web Development, Python**
+**Now:** IT intern at Empresa Eléctrica Ambato, the regional power utility, until January 2027. I graduate in mid-2027 and I'm looking for my first full-time role and freelance projects.
 
-- 👨‍💻 Mucha más información sobre mí en mi [Portafolio](https://seby10.github.io/)
+[Portfolio](https://seby10.github.io) · sebastianconstante04@hotmail.com
 
-- 📫 Contáctame a mi email **sebastianconstante04@hotmail.com**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,nestjs,react,angular,postgres,spring,java,python,docker,git&amp;theme=dark">
+  <img alt="TypeScript, Next.js, NestJS, React, Angular, PostgreSQL, Spring, Java, Python, Docker and Git" src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,react,angular,postgres,spring,java,python,docker,git&amp;theme=light" height="44">
+</picture>
 
-# 💻 Tecnologías:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+## Projects
 
-## 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_sebas.cn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebas-constante) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/constantenaranjo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/sebas28cn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sebastianconstante8866) 
+| Project | What it does | Built with |
+|---|---|---|
+| [Kaphiy](https://github.com/Arkasys-GDP/Khapiy) | QR ordering for a coffee shop, with a real-time kitchen dashboard and an AI assistant | NestJS, Next.js, PostgreSQL, Socket.IO |
+| [Financial simulator](https://github.com/seby10/simulador-financiero) | Loan and investment simulation for a credit union, with online applications | NestJS, Next.js, Prisma, PostgreSQL |
+| [Gas-System](https://github.com/Application-Distributed-Gasoline-System/Frontend) | Fleet management on microservices; I built the frontend | Next.js, NestJS, gRPC, NATS, Docker |
+| [gym-agent](https://github.com/seby10/gym-agent) | Workout plans from association rules, fuzzy logic and a genetic algorithm | Python, Streamlit |
+| [Payroll](https://github.com/seby10/roles-pago-ec) | Ecuadorian payroll: social security, income tax, statutory bonuses and severance | Python, Flask, SQLite |
+| [Sonar Message](https://github.com/seby10/sonar-message) | Real-time chat with video calls, analyzed with SonarQube | Node.js, Express, WebRTC |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Full case studies, including my part in each project, are on my [portfolio](https://seby10.github.io) (in Spanish).
 
+## How I work
+
+- I write the spec before I build.
+- I work with coding agents and give them the project context in writing.
+- Unit, integration and end-to-end tests where the project calls for them.
+
+**Daily:** TypeScript, Next.js, NestJS, PostgreSQL, Angular, Spring Boot, Java, Oracle, Git.
+**Learning now:** LLM applications and offensive security.
+
+## By the numbers
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=seby10&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=stars&amp;card_width=380&amp;custom_title=GitHub%20activity&amp;bg_color=0d1117&amp;title_color=ff6a3d&amp;text_color=ece7dc&amp;icon_color=ff6a3d">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=seby10&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;hide=stars&amp;card_width=380&amp;custom_title=GitHub%20activity&amp;bg_color=f3efe6&amp;title_color=b8300e&amp;text_color=1a1814&amp;icon_color=b8300e" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=seby10&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;hide=html,css&amp;card_width=380&amp;custom_title=Most%20used%20languages&amp;bg_color=0d1117&amp;title_color=ff6a3d&amp;text_color=ece7dc">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seby10&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;hide=html,css&amp;card_width=380&amp;custom_title=Most%20used%20languages&amp;bg_color=f3efe6&amp;title_color=b8300e&amp;text_color=1a1814" height="165">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=seby10&amp;hide_border=true&amp;area=true&amp;bg_color=0d1117&amp;color=ece7dc&amp;line=ff6a3d&amp;point=ff6a3d&amp;area_color=ff6a3d&amp;title_color=ff6a3d&amp;custom_title=Contributions%20in%20the%20last%20month">
+  <img alt="Contributions in the last month" src="https://github-readme-activity-graph.vercel.app/graph?username=seby10&amp;hide_border=true&amp;area=true&amp;bg_color=f3efe6&amp;color=1a1814&amp;line=b8300e&amp;point=b8300e&amp;area_color=b8300e&amp;title_color=b8300e&amp;custom_title=Contributions%20in%20the%20last%20month" width="100%">
+</picture>
